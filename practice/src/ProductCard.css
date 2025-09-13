@@ -1,0 +1,22 @@
+.title{
+    font-size:large;
+    font-weight: bold;
+    color:black;
+}
+.age{
+     font-size:medium;
+     font-weight: bold;
+    color:rgb(218, 26, 170);
+}
+.avail{
+    font-size:medium;
+    font-weight: bold;
+    color:rgb(160, 255, 8);
+}
+.container{
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 8%;
+    margin: 1%;
+
+}
